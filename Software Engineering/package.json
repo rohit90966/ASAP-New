@@ -1,0 +1,14 @@
+{
+  "name": "software-engineering",
+  "version": "1.0.0",
+  "description": "📌 Intelligent Software Project Forecasting and Team Capability Management System\r 📖 Project Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
